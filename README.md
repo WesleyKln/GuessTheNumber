@@ -1,5 +1,8 @@
 #  Guess The Number
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42122563/107059366-020cfd00-67d6-11eb-8627-68f8b355bc9a.png">
+</p>
 
 Welcome to ***Guess The Number***, a game in Command Line.
 
